@@ -1,0 +1,6 @@
+Key store path : C:\My Work\Android\QR Master\Key\QRMaster_Key.jks
+Key store password : QRMaster$@036599
+Key alias : key0
+Key password : QRMaster$@036599
+URL : https://play.google.com/apps/test/com.PSGITStudio.qrscannerandgenerator/1
+      https://play.google.com/store/apps/details?id=com.PSGITStudio.qrscannerandgenerator
